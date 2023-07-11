@@ -1,9 +1,32 @@
-# Portfolio Responsive Complete
-## [Watch it on youtube](https://youtu.be/AKNvTxWOdKw)
-### Portfolio responsive complete
-A clean and nice web portfolio for designer or developer. That includes almost everything you want to show. At first, your name, links to social networks and a great image. Then the About section displays more information about you. Then the list of Skills it offers. It also has a section where it shows some recent work. And at the bottom it has a form, and at the end with a footer.
 
-Don't forget to join the channel for more videos like this.
-[Bedimcode](https://www.youtube.com/c/Bedimcode)
 
-![preview img](/preview.png)
+# Personal Website
+
+Welcome to my personal website repository! This website showcases my web development skills, focusing on HTML, JavaScript, and CSS. It features visually appealing designs and interactive projects that demonstrate my expertise in creating engaging web experiences.
+
+## Features
+
+- Responsive layouts and optimized performance for seamless user experience
+- Demonstrations of front-end development using HTML, JavaScript, and CSS
+- Portfolio section showcasing various projects highlighting my creativity and technical abilities
+- "Contact Me" page for inquiries, feedback, or collaboration opportunities, fostering professional connections
+
+## Getting Started
+
+To explore my website and view the projects, simply visit [[(https://praneeth-hegde.github.io/)]] in your browser. Feel free to reach out to me through the "Contact Me" page for any inquiries or collaboration opportunities.
+
+## Technologies Used
+
+- HTML
+- JavaScript
+- CSS
+
+## Contributing
+
+Contributions to improve the website or add new features are welcome! Fork this repository, make your enhancements, and submit a pull request.
+
+## Contact
+
+For any further information or questions, please feel free to reach out to me at [praneethhegde@yahoo.com].
+
+Thank you for visiting my personal website repository!

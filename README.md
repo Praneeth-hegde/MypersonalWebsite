@@ -13,7 +13,7 @@ Welcome to my personal website repository! This website showcases my web develop
 
 ## Getting Started
 
-To explore my website and view the projects, simply visit [[(https://praneeth-hegde.github.io/)]] in your browser. Feel free to reach out to me through the "Contact Me" page for any inquiries or collaboration opportunities.
+To explore my website and view the projects, simply visit (https://praneeth-hegde.github.io/)in your browser. Feel free to reach out to me through the "Contact Me" page for any inquiries or collaboration opportunities.
 
 ## Technologies Used
 
@@ -27,6 +27,6 @@ Contributions to improve the website or add new features are welcome! Fork this 
 
 ## Contact
 
-For any further information or questions, please feel free to reach out to me at [praneethhegde@yahoo.com].
+For any further information or questions, please feel free to reach out to me at praneethhegde@yahoo.com.
 
 Thank you for visiting my personal website repository!

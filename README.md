@@ -6,14 +6,14 @@ Welcome to my personal website repository! This website showcases my web develop
 
 ## Features
 
-- Responsive layouts and optimized performance for seamless user experience
+- Responsive layouts and optimized performance for a seamless user experience
 - Demonstrations of front-end development using HTML, JavaScript, and CSS
 - Portfolio section showcasing various projects highlighting my creativity and technical abilities
 - "Contact Me" page for inquiries, feedback, or collaboration opportunities, fostering professional connections
 
 ## Getting Started
 
-To explore my website and view the projects, simply visit (https://praneeth-hegde.github.io/)in your browser. Feel free to reach out to me through the "Contact Me" page for any inquiries or collaboration opportunities.
+To explore my website and view the projects, simply visit (https://praneeth-hegde.github.io/) in your browser. Feel free to reach out to me through the "Contact Me" page for any inquiries or collaboration opportunities.
 
 ## Technologies Used
 
